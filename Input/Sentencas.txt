@@ -1,0 +1,4 @@
+Esta é a primeira sentença de teste.
+Aqui está outra frase para análise.
+A inteligência artificial pode interpretar essas frases?
+Este projeto me ajudará a entender melhor o processamento de linguagem natural.

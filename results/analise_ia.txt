@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "text": "Esta é a primeira sentença de teste.",
+      "sentiment": "Neutro",
+      "keywords": ["primeira", "sentença", "teste"],
+      "structure": "Sujeito + Verbo + Predicado"
+    },
+    {
+      "text": "Aqui está outra frase para análise.",
+      "sentiment": "Neutro",
+      "keywords": ["frase", "análise"],
+      "structure": "Locução + Verbo + Objeto"
+    },
+    {
+      "text": "A inteligência artificial pode interpretar essas frases?",
+      "sentiment": "Positivo",
+      "keywords": ["inteligência artificial", "interpretar", "frases"],
+      "structure": "Pergunta Direta"
+    },
+    {
+      "text": "Este projeto me ajudará a entender melhor o processamento de linguagem natural.",
+      "sentiment": "Positivo",
+      "keywords": ["projeto", "entender", "processamento", "linguagem natural"],
+      "structure": "Sujeito + Verbo + Complemento"
+    }
+  ]
+}
